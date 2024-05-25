@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io</id>
+    <title>Gridea</title>
+    <updated>2024-05-25T12:31:24.593Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io"/>
+    <link rel="self" href="https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io/images/avatar.png</logo>
+    <icon>https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[English]]></title>
+        <id>https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io/post/english/</id>
+        <link href="https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io/post/english/">
+        </link>
+        <updated>2024-05-24T15:52:41.000Z</updated>
+        <content type="html"><![CDATA[<p>unsettle v.<mark>使心神不宁, 扰乱, 使担忧</mark></p>
+<p>suspect  v.<mark>怀疑，不信任；猜想；怀疑……有罪</mark> n.<mark>嫌疑犯</mark> adj.<mark>骗人的，不诚实的；可疑的，不可靠的</mark></p>
+<p>lecturer n.<mark>讲演者, 讲课者, 讲授者, （尤指英国大学的）讲师</mark></p>
+<p>perception n.<mark>知觉，感知；观念，看法；洞察力，认识能力</mark></p>
+<p>dreaded adj.<mark>令人畏惧的</mark></p>
+<p>catch up on phrase.<mark>赶完,弥补(耽搁下来的工作、睡眠等);(事后)得到关于…的消息;使受挫折;改变(某人)的观点(或生活方式)</mark></p>
+<p>meant v.<mark>意味着, 用意, 表示, 预定</mark> adj.<mark>卑劣的, 卑贱的, 卑鄙的, 自私的</mark> n.<mark>中间, 中庸, 【数】平均数[值]，中数, 【逻】 (三段论的)中项</mark></p>
+<p>agenda n.<mark>议事日程</mark></p>
+<p>aroused v.<mark>激发, 唤醒, 激起, 激起性欲</mark></p>
+<p>distorted adj.<mark>扭曲的, 变形的, 受到曲解的</mark></p>
+<p>arousal n.<mark>唤起, 〈罕,古〉觉醒</mark></p>
+<p>sweat v.<mark>出汗, 流汗, 不安, （物体表面）渗出水分</mark> n.<mark>汗；出汗，流汗；繁重的工作；艰苦努力</mark></p>
+<p>mindfulness n.<mark>关注，留心，警觉；正念</mark></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模具制造工艺学]]></title>
+        <id>https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io/post/mo-ju-zhi-zao-gong-yi-xue/</id>
+        <link href="https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io/post/mo-ju-zhi-zao-gong-yi-xue/">
+        </link>
+        <updated>2024-05-24T13:40:43.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>模具制造的基本要求</p>
+<ul>
+<li>制造精度高</li>
+<li>使用寿命长</li>
+<li>制造周期短</li>
+<li>模具成本低</li>
+</ul>
+</li>
+<li>
+<p>模具零件切削加工顺序安排原则</p>
+<ul>
+<li>先粗后精</li>
+<li>先主后次</li>
+<li>基面先行</li>
+<li>先面后孔</li>
+<li>先内孔后外圆</li>
+</ul>
+</li>
+<li>
+<p>坐标镗床的特点</p>
+<ul>
+<li>主要用来加工模具零件上的精密孔系，因为其所加工的孔不仅具有较高的尺寸和几何形状精度，而且具有较高的孔距精度</li>
+</ul>
+</li>
+<li>
+<p>坐标镗床的附件及其作用</p>
+<ul>
+<li>
+<p>万能回转台</p>
+<ul>
+<li>便于加工周向分布孔，便于加工斜面上的孔</li>
+</ul>
+</li>
+<li>
+<p>光学中心找正器</p>
+<ul>
+<li>找正工件，使基准对齐主轴轴线</li>
+</ul>
+</li>
+<li>
+<p>镗床夹头</p>
+<ul>
+<li>实现径向进刀，调节镗孔孔径</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>成型磨削分为哪两类</p>
+<ul>
+<li>成型砂轮磨削法</li>
+<li>夹具磨削法</li>
+</ul>
+</li>
+<li>
+<p>夹具磨削法主要有哪些夹具，。。。各部分的作用</p>
+<ul>
+<li>
+<p>正弦精密平口钳和正弦精密磁力台</p>
+</li>
+<li>
+<p>正弦分中夹具</p>
+</li>
+<li>
+<p>万用夹具</p>
+<ul>
+<li>回转：10-手轮、4-蜗杆、3-蜗轮和1-主轴组成，用来带动工件回转</li>
+<li>装夹:14-转盘、15-螺钉、16-垫筒用来装夹工件</li>
+<li>十字滑板:11、12-十字托板、13-横滑板、17-手柄、18-丝杆等组成，使工件在两个相互垂直的方向移动，调整工件的回转中心，使工件的各个回转中心依次与夹具的主轴中心重合</li>
+<li>分度部分：分度盘、刻度盘、正弦圆柱、量块垫板</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>正弦分中夹具中心高的测定方法</p>
+<ul>
+<li>比较测量法：测量依据为夹具中心线，用比较测量器、量块、百分表找到比较测量面，当被加工表面与比较测量面等高时（即百分表读数一致时），加工也就完成了</li>
+</ul>
+</li>
+<li>
+<p>成型磨削工艺尺寸换算</p>
+<ul>
+<li>自己看书P44</li>
+</ul>
+</li>
+<li>
+<p>简述电火花加工物理本质（微观过程、机理）</p>
+<ul>
+<li>绝缘介质的击穿与放电通道的形成</li>
+<li>能量的转换、分布与传递</li>
+<li>电腐蚀产物的抛离</li>
+<li>极间介质的消电离</li>
+<li>（需要补充）</li>
+</ul>
+</li>
+<li>
+<p>电极材料、脉冲电源参数对加工速度、加工稳定性、加工精度的影响</p>
+<ul>
+<li>自己看书P106</li>
+</ul>
+</li>
+<li>
+<p>电火花机床、线切割机床由哪几部分组成，各部分起什么作用</p>
+<ul>
+<li>1-高频脉冲电源</li>
+<li>2-储丝筒</li>
+<li>3-走丝机构</li>
+<li>4-导轮</li>
+<li>5-工件</li>
+<li>6-坐标工作台</li>
+<li>7-床身</li>
+<li>（需要补充）</li>
+</ul>
+</li>
+<li>
+<p>模具电化学加工主要方法</p>
+<ul>
+<li>阳极溶解法</li>
+<li>阴极沉积法</li>
+<li>复合加工法</li>
+</ul>
+</li>
+<li>
+<p>简述快速成形加工的基本原理和主要工艺方法</p>
+<ul>
+<li>
+<p>原理</p>
+</li>
+<li>
+<p>工艺方法</p>
+<ul>
+<li>选择性激光烧结（SLS）</li>
+<li>光固化成型（SLA）</li>
+<li>叠层实体制造成型（LOM）</li>
+<li>熔融沉积快速原型（FDM）</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>现代模具制造新技术包含哪些主要内容</p>
+<ul>
+<li>并行工程</li>
+<li>逆向工程</li>
+<li>敏捷制造</li>
+<li>精益生产</li>
+<li>绿色制造</li>
+</ul>
+</li>
+<li>
+<p>非圆形凸模、非圆形型孔的凹模常用加工方法</p>
+<ul>
+<li>需要补充</li>
+</ul>
+</li>
+<li>
+<p>工具电极的设计计算、线切割3B编程</p>
+<ul>
+<li>不会就请教别人吧</li>
+</ul>
+</li>
+<li>
+<p>凹模加工工艺过程（P176~P178）</p>
+<p>​<img src="assets/f11339030575c0152ef197ffb07f7b0a_720-20240524164222-9tmj75z.jpg" alt="f11339030575c0152ef197ffb07f7b0a_720" loading="lazy">​<img src="assets/70b0cd447e7526aab5c62d70e42fdc9f_720-20240524164242-lj61aan.jpg" alt="70b0cd447e7526aab5c62d70e42fdc9f_720" loading="lazy">​</p>
+<ul>
+<li>
+<p>1.准备毛坯。用圆钢锻成方形坯料，并退火。</p>
+<p>2.刨削六个面。将毛坯刨成六面体。</p>
+<p>3.平磨上、下两平面及角尺面。</p>
+<p>4.钳工划线。并加工铣孔（钻孔、功螺纹）</p>
+<p>5.去除型孔内部废料。沿型孔轮廓划出一系列孔，然后在钻床上顺序钻孔，钻完后凿通整个轮廓，敲出中间废料。</p>
+<p>6.热处理。淬火与回火，检测表面硬度，要求达到60～64HRC。</p>
+<p>7.平磨上、下两平面及角尺面。</p>
+<p>8.电火花线切割型孔。线切割加工的步骤与凸模加工相似。</p>
+<p>9.将切割好的凹模进行稳定回火。</p>
+<p>10.钳工研磨销孔及凹模刃口，使型孔达规定的技术要求。</p>
+</li>
+<li>
+<p>1）准备毛坯。用圆钢锻成方形毛坯，并退火。</p>
+<p>2）刨削六个面。</p>
+<p>3）平磨。磨上、下两平面和角尺面。</p>
+<p>4）钳工划线。划出型孔轮廓线及螺孔、销孔位置。</p>
+<p>5）切除中心废料。先在型孔适当位置钻孔，然后用带锯机去除中心废料。</p>
+<p>6）螺孔和销孔加工。加工螺孔（钻孔、攻螺纹），加工销孔（钻孔、铰孔）。</p>
+<p>7）热处理。淬火与回火，检查硬度，表面硬度要求达到60～64HRC。</p>
+<p>8）平磨。磨上、下两平面。</p>
+<p>9）退磁处理。</p>
+<p>10）电火花加工型孔。利用凸模加上一段铸铁后作为电极（见图8-21，L1为凸模长度，L2为电极长度），电加工完成后去掉铸铁部分后做凸模用。由于凸、凹模配合间隙较大（单边0.05～0.10mm），故先用粗规准加工，然后调整平动头的偏心量，再用精规准加工，达到凸、凹模的配合间隙要求。</p>
+</li>
+</ul>
+</li>
+<li>
+<p>模具装配的工艺方法有哪些</p>
+<ul>
+<li>完全互换法</li>
+<li>修配法</li>
+<li>调整法</li>
+</ul>
+</li>
+<li>
+<p>模具工作零件的固定方法有哪些</p>
+<ul>
+<li>紧固件法</li>
+<li>压入法</li>
+<li>铆接法</li>
+<li>热套法</li>
+<li>焊接法</li>
+<li>低熔点合金法</li>
+<li>粘接法</li>
+</ul>
+</li>
+<li>
+<p>调整凸、凹模冲裁间隙均匀的方法</p>
+<ul>
+<li>垫片法</li>
+<li>镀铜法</li>
+<li>透光法</li>
+<li>涂层法</li>
+<li>腐蚀法<br>
+​</li>
+</ul>
+</li>
+</ul>
+<p>‍</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io/post/hello-gridea/</id>
+        <link href="https://github.com/zhongzhiwenzzw/zhongzhiwenzzw.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
